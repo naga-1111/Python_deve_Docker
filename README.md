@@ -1,6 +1,7 @@
 # VSCode + DockerでPythonの開発構築をしよう
 ## 事前準備
 * [Git for windows](https://gitforwindows.org/)
+* [wsl](https://learn.microsoft.com/ja-jp/windows/wsl/install)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [VScode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
   * VScodeの拡張機能、下二つ+他好きなやつ
