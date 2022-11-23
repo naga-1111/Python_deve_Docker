@@ -1,4 +1,4 @@
-# VSCode + DockerでPythonの開発環境作成手順
+# VSCode + DockerでPythonの開発構築をしよう
 ## 事前準備
 * [Git for windows](https://gitforwindows.org/)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
