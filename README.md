@@ -17,5 +17,5 @@
 * `requirements.txt`
   * 自分のPython環境で`pip freeze > requirements.txt`でモジュール一覧取得、上書き
 ## コンテナ起動手順
-* VScode画面左下の緑色の部分→Open Folder in Container→このgit cloneしてきたdirectory選択、openでコンテナにアクセスできる
+* VScode画面左下の緑色の部分→Open Folder in Container→git cloneしてきたこの選択してopenでコンテナにアクセス
 * めでたく環境構築完了
