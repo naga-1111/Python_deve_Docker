@@ -1,7 +1,7 @@
 # VSCode + DockerでPythonの開発環境作成
 ## 事前準備
 * [Git for windows](https://gitforwindows.org/)
-* [Docker Desctop](https://www.docker.com/products/docker-desktop/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [VScode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
   * VScodeの拡張機能
   * [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
