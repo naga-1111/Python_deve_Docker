@@ -3,7 +3,7 @@
 * [Git for windows](https://gitforwindows.org/)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [VScode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
-  * VScodeの拡張機能
+  * VScodeの拡張機能、下二つ+他好きなやつ
   * [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
   * [Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
 ## 各種ファイル設定
